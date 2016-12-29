@@ -1,1 +1,5 @@
 # test
+``` bash
+test='3'
+echo $test
+```
