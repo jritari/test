@@ -2,5 +2,5 @@
 ``` bash
 test='3'
 echo $test
-echo 'edit'
+echo 'edit2'
 ```
